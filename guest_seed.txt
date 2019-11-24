@@ -1,3 +1,0 @@
-# guest_seed.txt
-
-INSERT INTO
